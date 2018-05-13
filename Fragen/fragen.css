@@ -1,0 +1,23 @@
+body {
+	font-family: arial;
+}
+h1 {
+	text-align: center;
+	font-size: 55pt;
+	color: white;
+	margin-top: 50px;
+	background-color: black;
+}
+h2 {
+	text-align:center;
+}
+p{
+	margin-left: 60px;
+}
+form {
+	margin-left: 30px;
+}
+}
+a:link, a:visited{
+	color: olivedrab;
+}
